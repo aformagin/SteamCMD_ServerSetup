@@ -1,4 +1,4 @@
-**Ark Server Setup**
+## ARK: Survival Evolved Server Setup
 ____
 
 Ports that are required to be open by default(can be changed in settings):  
